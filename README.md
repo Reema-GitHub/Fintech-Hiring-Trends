@@ -1,6 +1,6 @@
-# Fintech-Hiring-Trends
+# Fintech Hiring Trends
 
-# Data Prep
+# Data Preprocessing
 
 We scrapped a few reports related to Fintech and gathered key terms that are associated with Fintech and scrapped jobs from two of the assigned largest banks in US and evaluated hiring trends in these banks.
 
